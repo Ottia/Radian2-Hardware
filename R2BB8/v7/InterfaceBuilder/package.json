@@ -18,7 +18,7 @@
     "package": "npm-run-all clean build pack"
   },
   "devDependencies": {
-    "electron": "^1.7.9",
+    "electron": "^18.3.7",
     "gulp": "^4.0.0",
     "gulp-babel": "^7.0.1",
     "gulp-concat": "^2.6.1",
